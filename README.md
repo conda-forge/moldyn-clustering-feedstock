@@ -5,9 +5,11 @@ Home: https://github.com/moldyn/Clustering
 
 Package license: BSD-2
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/moldyn-clustering-feedstock/blob/master/LICENSE.txt)
 
 Summary: Robust and stable clustering of molecular dynamics simulation trajectories
+
+Development: https://github.com/moldyn/Clustering
 
 This software package provides extensive tools for fast, robust and
 stable clustering of molecular dynamics trajectories. The essential
@@ -38,17 +40,17 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_boost_cpp1.72.0</td>
+              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8588&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/moldyn-clustering-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/moldyn-clustering-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.74.0</td>
+              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8588&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/moldyn-clustering-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/moldyn-clustering-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7" alt="variant">
                 </a>
               </td>
             </tr>
