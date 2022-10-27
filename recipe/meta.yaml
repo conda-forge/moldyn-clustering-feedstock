@@ -34,7 +34,7 @@ test:
 
 about:
   home: https://github.com/moldyn/Clustering
-  license: BSD-2
+  license: BSD-2-Clause
   license_family: BSD
   license_file: LICENSE.txt
   summary: Robust and stable clustering of molecular dynamics simulation trajectories
