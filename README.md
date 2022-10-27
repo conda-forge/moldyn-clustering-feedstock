@@ -3,7 +3,7 @@ About moldyn-clustering
 
 Home: https://github.com/moldyn/Clustering
 
-Package license: BSD-2
+Package license: BSD-2-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/moldyn-clustering-feedstock/blob/main/LICENSE.txt)
 
