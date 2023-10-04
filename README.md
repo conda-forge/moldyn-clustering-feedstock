@@ -1,11 +1,11 @@
-About moldyn-clustering
-=======================
+About moldyn-clustering-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/moldyn-clustering-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/moldyn/Clustering
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/moldyn-clustering-feedstock/blob/main/LICENSE.txt)
 
 Summary: Robust and stable clustering of molecular dynamics simulation trajectories
 
@@ -43,7 +43,7 @@ Current build status
               <td>linux_64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8588&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/moldyn-clustering-feedstock?branchName=main&jobName=linux&configuration=linux_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/moldyn-clustering-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_" alt="variant">
                 </a>
               </td>
             </tr>
