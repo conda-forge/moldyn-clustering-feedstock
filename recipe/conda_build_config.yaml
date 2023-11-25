@@ -1,0 +1,7 @@
+# build fails with newer compilers due to some dodgy
+# use of the max-function that older compilers allow;
+# should be fixed upstream
+c_compiler_version:     # [linux]
+  - 10                  # [linux]
+cxx_compiler_version:   # [linux]
+  - 10                  # [linux]
