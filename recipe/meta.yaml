@@ -10,12 +10,13 @@ source:
   sha256: a77b4ce89b312f8ab981c1bb08a3893b3f0169e09641580364087584556eee3f
 
 build:
-  number: 2
+  number: 3
   skip: true  # [win or osx]
 
 requirements:
   build:
     - {{ compiler('c') }}
+    - {{ stdlib("c") }}
     - {{ compiler('cxx') }}
     - cmake
     - make
